@@ -1,0 +1,6 @@
+{
+  "name": "Intent-Guard",
+  "description": "Mindful browsing and digital intention tracker for a calmer digital life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
